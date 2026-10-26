@@ -1,0 +1,4 @@
+.netlify
+functions/.netlify
+node_modules
+.env
